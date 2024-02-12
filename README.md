@@ -1,0 +1,2 @@
+- 🔭 Flutter Software Developer
+- 📫 How to reach me: engineer@yertay.com
